@@ -1,0 +1,11 @@
+{
+    "require": {
+        "mpdf/mpdf": "^8.0",
+        "phpoffice/phpspreadsheet": "^1.14",
+        "shuchkin/simplexlsx": "^0.8.19",
+        "vlucas/phpdotenv": "^5.2",
+        "vaibhavpandeyvpz/phemail": "^1.0",
+        "consulta/laravel": "^0.2.2",
+        "jossmp/sunatphp": "^3.0"
+    }
+}

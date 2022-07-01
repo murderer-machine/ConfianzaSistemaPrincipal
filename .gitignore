@@ -1,0 +1,7 @@
+nbproject/
+node_modules/
+recursos/composer/vendor/
+recursos/documentos
+recursos/documentos_excel
+recursos/documentos_pst
+.DS_STORE
